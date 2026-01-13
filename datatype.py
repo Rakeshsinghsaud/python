@@ -19,3 +19,5 @@ print((40,50,60,80))
 print({30,40,50,70})
 #dictionary
 print({'name':'Rakesh','age':24,"city":"Mnr"})
+#type
+type(5.67)
