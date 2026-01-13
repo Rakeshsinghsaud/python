@@ -1,0 +1,21 @@
+#integer
+print(56)
+print(1e308)
+#float
+print(7.7)
+print(1.6e308)
+#string
+print("Hello World")
+#boolean
+print(True)
+print(False)
+#complex
+print(5+4j)
+#List
+print([1,2,3,4,5])
+#tuple
+print((40,50,60,80))
+#set
+print({30,40,50,70})
+#dictionary
+print({'name':'Rakesh','age':24,"city":"Mnr"})
