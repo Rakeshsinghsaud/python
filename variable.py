@@ -12,4 +12,7 @@ print(a) # single varible  can hold different types of data
 a="Rakesh"
 print(a)
 #Static binding
-int a=23 # varible can hold only one type of data
+#int a=23 # varible can hold only one type of data
+ 
+
+ 
